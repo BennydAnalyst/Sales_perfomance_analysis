@@ -20,3 +20,6 @@ For the purpose of this analysis KPI'S such as
 5. Geographical Sales distribution
 6. Customer segmentation
 
+! [] (WhatsApp Image 2025-05-08 at 9.39.03 AM (2).jpeg)
+
+
