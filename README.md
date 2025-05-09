@@ -20,6 +20,6 @@ For the purpose of this analysis KPI'S such as
 5. Geographical Sales distribution
 6. Customer segmentation
 
-! [] (WhatsApp Image 2025-05-08 at 9.39.03 AM (2).jpeg)
+![](https://github.com/BennydAnalyst/Sales_perfomance_analysis/blob/main/WhatsApp%20Image%202025-05-08%20at%209.39.03%20AM%20(2).jpeg)
 
 
